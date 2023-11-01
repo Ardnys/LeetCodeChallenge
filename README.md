@@ -1,2 +1,7 @@
 # LeetCodeNovember
-45 leetcode problems in november for coffee and desserts
+
+| Days | Problems                                              | Pain |
+|------|-------------------------------------------------------|---|
+| 1    | 1. two sum, 27. remove element, 501. find mode in bst |  4 |
+|      |                                                       |   |
+|      |                                                       |   |
