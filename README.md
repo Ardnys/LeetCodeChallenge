@@ -1,6 +1,6 @@
 # LeetCodeNovember
 
-**total / goal**: 18 / 45
+**total / goal**: 21 / 45
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -10,3 +10,5 @@
 | 9    | inc triplet?, string compression that no one made in place. i tried in C          | 6    |
 | 11   | move zeros with terrible runtime, isubsequence, mostwater, maxksum                | 6    |
 | 15   | 643. maximum avg subarray, 1456. maximum vowels in a substr, 74. search 2d matrix | 4    |
+| 20   | 14. longest common prefix, 26. remove duplicates, 35. search insert pos           | 5    |
+
