@@ -1,6 +1,18 @@
 def addBinary(a: str, b: str) -> str:
-    pass
+    s = ""
+    carry = 0
+    i = len(a) - 1
+    j = len(b) - 1
 
-a = "1010"
-b = "1011"
-print(f"{a} + {b} = {addBinary(a, b)}")
+    while i >= 0 or j >= 0 or carry:
+        if i >= 0:
+            carry += int(a[i])
+            i -= 1
+        if j >= 0:
+            carry += int(b[j])
+            j -= 1
+        s = str(carry % 2) + s
+        carry //= 2
+
+    return s
+
