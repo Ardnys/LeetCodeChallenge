@@ -1,6 +1,6 @@
 # LeetCodeNovember
 
-**total / goal**: 21 / 45
+**total / goal**: 26 / 45
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -11,4 +11,6 @@
 | 11   | move zeros with terrible runtime, isubsequence, mostwater, maxksum                | 6    |
 | 15   | 643. maximum avg subarray, 1456. maximum vowels in a substr, 74. search 2d matrix | 4    |
 | 20   | 14. longest common prefix, 26. remove duplicates, 35. search insert pos           | 5    |
+| 22   | 28. find index of first occurence, 58. length of last word                        | 3    |
+| 23   | 1630. arithmetic subarrays, 66. plus one, 67. add binary                          | 7    |
 
