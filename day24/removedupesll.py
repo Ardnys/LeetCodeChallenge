@@ -18,3 +18,15 @@ def deleteDuplicates(head):
             prev = current
         current = current.next
     return head
+
+
+# solution with just one variable
+
+# def deleteDuplicates(head):
+#     current = head
+#     while current and current.next:
+#         if current.next.val == current.val:
+#             current.next = current.next.next
+#             continue
+#         current = current.next
+#     return head
