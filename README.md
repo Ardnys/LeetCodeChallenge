@@ -13,5 +13,5 @@
 | 20   | 14. longest common prefix, 26. remove duplicates, 35. search insert pos           | 5    |
 | 22   | 28. find index of first occurence, 58. length of last word                        | 3    |
 | 23   | 1630. arithmetic subarrays, 66. plus one, 67. add binary                          | 7    |
-| 24   | 83. remove dupes, 88. merge arr                          | 2    |
+| 24   | 83. remove dupes, 88. merge arr, 108. sorted arr to bst, 111. min height of bst   | 2    |
 
