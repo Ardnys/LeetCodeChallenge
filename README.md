@@ -1,6 +1,6 @@
 # LeetCodeNovember
 
-**total / goal**: 26 / 45
+**total / goal**: 28 / 45
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -13,4 +13,5 @@
 | 20   | 14. longest common prefix, 26. remove duplicates, 35. search insert pos           | 5    |
 | 22   | 28. find index of first occurence, 58. length of last word                        | 3    |
 | 23   | 1630. arithmetic subarrays, 66. plus one, 67. add binary                          | 7    |
+| 24   | 83. remove dupes, 88. merge arr                          | 2    |
 
