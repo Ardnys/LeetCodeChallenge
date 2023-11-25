@@ -14,4 +14,5 @@
 | 22   | 28. find index of first occurence, 58. length of last word                        | 3    |
 | 23   | 1630. arithmetic subarrays, 66. plus one, 67. add binary                          | 7    |
 | 24   | 83. remove dupes, 88. merge arr, 108. sorted arr to bst, 111. min height of bst   | 2    |
+| 25   | 112. path sum, 125. valid palindrome, 136. single number                          | 5    |
 
