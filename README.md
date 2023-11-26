@@ -1,6 +1,6 @@
 # LeetCodeNovember
 
-**total / goal**: 33 / 45
+**total / goal**: 36 / 45
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -15,4 +15,5 @@
 | 23   | 1630. arithmetic subarrays, 66. plus one, 67. add binary                          | 7    |
 | 24   | 83. remove dupes, 88. merge arr, 108. sorted arr to bst, 111. min height of bst   | 2    |
 | 25   | 112. path sum, 125. valid palindrome, 136. single number                          | 5    |
+| 26   | 141. linked list cycle, 160. intersection of linked lists, 169. majority element  | 2    |
 
