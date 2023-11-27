@@ -1,6 +1,6 @@
 # LeetCodeNovember
 
-**total / goal**: 37 / 45
+**total / goal**: 38 / 45
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -16,4 +16,5 @@
 | 24   | 83. remove dupes, 88. merge arr, 108. sorted arr to bst, 111. min height of bst   | 2    |
 | 25   | 112. path sum, 125. valid palindrome, 136. single number                          | 5    |
 | 26   | 141. linked list cycle, 160. inter of llist, 169. majority element, 121. stonks   | 2    |
+| 27   | 23. merge k linked lists. hard problem wow it's terrible                          | 8    |
 
