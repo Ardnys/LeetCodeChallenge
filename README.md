@@ -1,12 +1,12 @@
 # LeetCodeNovember
 
-**total / goal**: 43 / 45
+**total / goal**: 45 / 45
 
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
 | easy           | 30                    |
-| medium         | 11                    |
-| hard           | 2                     |
+| medium         | 12                    |
+| hard           | 3                     |
 
 
 
@@ -26,3 +26,4 @@
 | 26   | 141. linked list cycle, 160. inter of llist, 169. majority element, 121. stonks   | 2    |
 | 27   | 23. merge k linked lists. hard problem wow it's terrible, 2215. array diff        | 8    |
 | 29   | 394. decode str, 1207. unique occurs, 25. reverse k nodes, 2390. removing stars   | 9    |
+| 30   | 841. Keys and Rooms, 42. Trapping Rain Water                                      | 5    |
