@@ -1,4 +1,6 @@
-# LeetCodeNovember
+# LeetCodeChallenge
+
+## November
 
 **total / goal**: 45 / 45
 
@@ -27,3 +29,16 @@
 | 27   | 23. merge k linked lists. hard problem wow it's terrible, 2215. array diff        | 8    |
 | 29   | 394. decode str, 1207. unique occurs, 25. reverse k nodes, 2390. removing stars   | 9    |
 | 30   | 841. Keys and Rooms, 42. Trapping Rain Water                                      | 5    |
+
+---
+
+## December
+
+**total / goal**: 0 / 30
+| Difficulty     | Number of Problems    |
+|--------------- | ---------------       |
+| easy           | 20                    |
+| medium         | 10                    |
+
+| Days | Problems                                                                          | Pain |
+| ---- | --------------------------------------------------------------------------------- | ---- |
