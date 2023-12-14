@@ -34,11 +34,14 @@
 
 ## December
 
-**total / goal**: 0 / 30
+**total / goal**: 8 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
-| easy           | 20                    |
-| medium         | 10                    |
+| easy           | 6                   |
+| medium         | 2                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
+| 6 | 1716. calculate moni, 1732. highest alti, 724. pivot idx                            | 2 |
+| 9 | 94. inorder traversal, 2352. equal row col                            | 3 |
+| 14 | 2482. diff one zero, 1582. special pos, 606. preorder str                            | 4|
