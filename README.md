@@ -38,7 +38,7 @@
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
 | easy           | 10                   |
-| medium         | 2                    |
+| medium         | 3                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -47,3 +47,4 @@
 | 14 | 2482. diff one zero, 1582. special pos, 606. preorder str                           | 4|
 | 15 | 1426. destination city, 1071. GCD str, 933. recent calls                            | 4|
 | 16 | 242. valid anagram                           | 4|
+| 17 | 2433. arr prefix                            | 2|
