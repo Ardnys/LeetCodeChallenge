@@ -34,11 +34,11 @@
 
 ## December
 
-**total / goal**: 12 / 30
+**total / goal**: 16 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
-| easy           | 10                   |
-| medium         | 3                    |
+| easy           | 11                   |
+| medium         | 5                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -48,3 +48,4 @@
 | 15 | 1426. destination city, 1071. GCD str, 933. recent calls                            | 4|
 | 16 | 242. valid anagram                           | 4|
 | 17 | 2433. arr prefix                            | 2|
+| 18 | 1913. max prod diff, 2095. ll delet mid noe, 328. even odd ll                        | 5|
