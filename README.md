@@ -34,11 +34,11 @@
 
 ## December
 
-**total / goal**: 16 / 30
+**total / goal**: 19 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
-| easy           | 11                   |
-| medium         | 5                    |
+| easy           | 12                   |
+| medium         | 7                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -48,4 +48,5 @@
 | 15 | 1426. destination city, 1071. GCD str, 933. recent calls                            | 4|
 | 16 | 242. valid anagram                           | 4|
 | 17 | 2433. arr prefix                            | 2|
-| 18 | 1913. max prod diff, 2095. ll delet mid noe, 328. even odd ll                        | 5|
+| 18 | 1913. max prod diff, 2095. ll delet mid node, 328. even odd ll                        | 5|
+| 19 | 206. reverse ll, 2130. max twin sum, 1448. good nodes tree                        | 4|
