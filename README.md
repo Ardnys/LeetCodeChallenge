@@ -34,11 +34,11 @@
 
 ## December
 
-**total / goal**: 19 / 30
+**total / goal**: 22 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
-| easy           | 12                   |
-| medium         | 7                    |
+| easy           | 13                   |
+| medium         | 9                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -50,3 +50,5 @@
 | 17 | 2433. arr prefix                            | 2|
 | 18 | 1913. max prod diff, 2095. ll delet mid node, 328. even odd ll                        | 5|
 | 19 | 206. reverse ll, 2130. max twin sum, 1448. good nodes tree                        | 4|
+| 20 | 2796. buy choco   | 2|
+| 21 | 1637. widest vertical area, 19. remove last nth node | 7|
