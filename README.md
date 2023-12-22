@@ -34,11 +34,11 @@
 
 ## December
 
-**total / goal**: 22 / 30
+**total / goal**: 24 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
-| easy           | 13                   |
-| medium         | 9                    |
+| easy           | 14                   |
+| medium         | 10                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -52,3 +52,4 @@
 | 19 | 206. reverse ll, 2130. max twin sum, 1448. good nodes tree                        | 4|
 | 20 | 2796. buy choco   | 2|
 | 21 | 1637. widest vertical area, 19. remove last nth node | 7|
+| 22 | 1422. max score after split, 1282. group partition thing | 3|
