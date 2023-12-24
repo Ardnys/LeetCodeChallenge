@@ -34,10 +34,10 @@
 
 ## December
 
-**total / goal**: 24 / 30
+**total / goal**: 25 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
-| easy           | 14                   |
+| easy           | 16                   |
 | medium         | 10                    |
 
 | Days | Problems                                                                          | Pain |
@@ -53,3 +53,5 @@
 | 20 | 2796. buy choco   | 2|
 | 21 | 1637. widest vertical area, 19. remove last nth node | 7|
 | 22 | 1422. max score after split, 1282. group partition thing | 3|
+| 23 | 1496. path crossing | 1|
+| 24 | 1758. min changes bin str | 3|
