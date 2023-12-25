@@ -34,11 +34,11 @@
 
 ## December
 
-**total / goal**: 28 / 30
+**total / goal**: 31 / 30
 | Difficulty     | Number of Problems    |
 |--------------- | ---------------       |
 | easy           | 16                   |
-| medium         | 13                    |
+| medium         | 15                    |
 
 | Days | Problems                                                                          | Pain |
 | ---- | --------------------------------------------------------------------------------- | ---- |
@@ -55,4 +55,4 @@
 | 22 | 1422. max score after split, 1282. group partition thing | 3|
 | 23 | 1496. path crossing | 1|
 | 24 | 1758. min changes bin str | 3|
-| 25 | 437. path sum 3, 113. path sum 2, 1372. zigzag | 5|
+| 25 | 437. path sum 3, 113. path sum 2, 1372. zigzag, 547. num of province, 215. kth largest elem| 7|
