@@ -15,12 +15,12 @@ class Solution:
             if not node:
                 return 0
             if node.val >= low and node.val <= high:
-                count += node.val                
-            if node.left:                             
+                count += node.val
+            if node.left:
                 count = traverse(node.left, count)
-            if node.right:              
+            if node.right:
                 count = traverse(node.right, count)
-           
+
             return count
 
         return traverse(root, 0)
