@@ -32,4 +32,16 @@ impl Solution {
         }
         stack.pop_front().unwrap()
     }
+    pub fn group_anagrams(strs: Vec<String>) -> Vec<Vec<String>> {
+        let mut cringe: HashMap<Vec<u32>, Vec<String>> = HashMap::new();
+
+        for s in strs {
+            let mut fm = vec![0; 26];
+            for c in s.chars() {
+                fm[(c as u8 - b'a') as usize] += 1;
+            }
+            cringe.entry(fm).or_insert(Vec::new()).push(s);
+        }
+        cringe.into_values().collect()
+    }
 }
